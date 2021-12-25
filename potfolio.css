@@ -43,7 +43,7 @@ div.header-link button:hover {
 }
 
 .avatar {
-    align-self: left;
+    align-self: center;
     float: left;
     margin-left: 30%;
     margin-top: 7%;
